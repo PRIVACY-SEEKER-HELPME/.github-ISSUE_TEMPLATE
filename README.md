@@ -1,4 +1,3 @@
 <default revision="master"
-remote="aosp"
-j="1"
+julie="1"
 
